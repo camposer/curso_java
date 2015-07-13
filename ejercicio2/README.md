@@ -9,4 +9,4 @@ MiFecha a = new MiFecha(12, 9, 2009);
 MiFecha b = a;
 MiFecha c = a;
 
-¿Qué tiene que pasar para que a sea descartable por el Garbage Collector (GC)?
+¿Qué tiene que pasar para que el objeto al que referencia "a" sea descartable por el Garbage Collector (GC)?
