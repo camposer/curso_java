@@ -1,4 +1,4 @@
-package basico;
+package ejercicio1;
 
 public class HolaMundo {
 	public static void main(String[] args) {
