@@ -22,4 +22,7 @@ Curso básico de Java SE 7
 	- http://docs.oracle.com/javase/7/docs/
 - Java API
 	- http://docs.oracle.com/javase/7/docs/api/
-
+- Java SE 7 Features and Enhancements
+	- http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html
+- A look at Java 7's new features
+	- http://radar.oreilly.com/2011/09/java7-features.html
