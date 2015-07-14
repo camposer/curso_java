@@ -4,8 +4,10 @@
 
 Además, deberá imprimir el array en pantalla siguiendo el formato del ejercicio 3, es decir:
 
+```
 1. 
 2. 
 3. foo
 ...
 15. foo bar
+```
