@@ -1,7 +1,9 @@
 package ejercicio7;
 
+
 public class Excepciones {
 	public static void main(String[] args) throws Exception {
+		
 		String a;
 			try {
 				a = "1";
