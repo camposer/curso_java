@@ -9,3 +9,5 @@
 IMPORTANTE: La clase Persona debe implementar la interfaz java.io.Serializable!!
 
 2.- Modificar los métodos utilizados para serializar y deserializar (apartado anterior) para que ahora escriban y lean utilizando el método Files.write de la API NIO. Puede valerse de las clases ByteArrayInputStream y ByteArrayOutputStream.
+
+NOTA: Esta opción no tiene mucho sentido realmente, es sólo para practicar la API NIO
