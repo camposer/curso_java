@@ -8,8 +8,10 @@
 
 Manejar las posibles excepciones que puedan existir con clases personalizadas. El programa no debe abortar en ningún momento, debe realizar todas las operaciones contenidas en el main. En el método main deberán realizarse las siguientes operaciones:
 
+```
 Calculadora calc = new Calculadora();
 int a = calc.sumar(8, 10);
 int b = calc.restar(20, a);
 int c = calc.restar(2, 2);
 int d = calc.dividir(a, c);
+```
